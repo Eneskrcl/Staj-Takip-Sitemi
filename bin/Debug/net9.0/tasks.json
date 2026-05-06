@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 1,
+    "Title": "Makine \u00D6\u011Frenimi dersine \u00E7al\u0131\u015F",
+    "Description": "",
+    "Deadline": "2026-05-06T00:00:00",
+    "Priority": 1,
+    "IsDone": false,
+    "CreatedAt": "2026-05-06T17:05:54.0072199+03:00",
+    "CompletedAt": null,
+    "IsOverdue": false,
+    "DaysLeft": 0,
+    "DaysOverdue": 0
+  }
+]
